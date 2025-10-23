@@ -1,0 +1,211 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="JAMES NAISMITH" />
+    <node id="BASKETBALL HALL OF FAME" />
+    <node id="SPRINGFIELD" />
+    <node id="BASKETBALL" />
+    <node id="FIRST BASKETBALL GAME" />
+    <node id="NEW JERSEY" />
+    <node id="NEW YORK" />
+    <node id="BERLIN OLYMPICS" />
+    <node id="FRED COOPER" />
+    <node id="TRITON" />
+    <node id="BROOKLYN" />
+    <node id="NAISMITH" />
+    <node id="NATIONAL BASKETBALL ASSOCIATION" />
+    <node id="NAISMITH MEMORIAL BASKETBALL HALL OF FAME" />
+    <node id="ATLANTA HAWKS" />
+    <node id="BOSTON CELTICS" />
+    <node id="CHARLOTTE BOBCATS" />
+    <node id="CHICAGO BULLS" />
+    <node id="CLEVELAND CAVALIERS" />
+    <node id="DALLAS MAVERICKS" />
+    <node id="DENVER NUGGETS" />
+    <node id="DETROIT PISTONS" />
+    <node id="GOLDEN STATE WARRIORS" />
+    <node id="HOUSTON ROCKETS" />
+    <node id="INDIANA PACERS" />
+    <node id="LOS ANGELES CLIPPERS" />
+    <node id="LOS ANGELES LAKERS" />
+    <node id="MIAMI HEAT" />
+    <node id="MILWAUKEE BUCKS" />
+    <node id="MINNESOTA TIMBERWOLVES" />
+    <node id="NEW JERSEY NETS" />
+    <node id="NEW ORLEANS HORNETS" />
+    <node id="NEW YORK KNICKS" />
+    <node id="OKLAHOMA CITY THUNDER" />
+    <node id="ORLANDO MAGIC" />
+    <node id="PHILADELPHIA 76ERS" />
+    <node id="PHOENIX SUNS" />
+    <node id="PORTLAND TRAIL BLAZERS" />
+    <node id="SACRAMENTO KINGS" />
+    <node id="SAN ANTONIO SPURS" />
+    <node id="UTAH JAZZ" />
+    <node id="WASHINGTON WIZARDS" />
+    <node id="INTERNET" />
+    <node id="OLYMPICS" />
+    <node id="GYMNASTICS" />
+    <node id="BASEBALL" />
+    <node id="TENNIS" />
+    <node id="SLAM DUNK" />
+    <node id="RECTANGULAR" />
+    <node id="UNIFORM" />
+    <edge source="JAMES NAISMITH" target="BASKETBALL HALL OF FAME">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="JAMES NAISMITH" target="SPRINGFIELD">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="JAMES NAISMITH" target="BASKETBALL">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="JAMES NAISMITH" target="FIRST BASKETBALL GAME">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BASKETBALL HALL OF FAME" target="NAISMITH">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="BASKETBALL HALL OF FAME" target="BERLIN OLYMPICS">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="BASKETBALL HALL OF FAME" target="NATIONAL BASKETBALL ASSOCIATION">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="BASKETBALL" target="BERLIN OLYMPICS">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BASKETBALL" target="FRED COOPER">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="BASKETBALL" target="NAISMITH">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="BASKETBALL" target="NATIONAL BASKETBALL ASSOCIATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BASKETBALL" target="OLYMPICS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="BASKETBALL" target="SLAM DUNK">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="BASKETBALL" target="RECTANGULAR">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="BASKETBALL" target="UNIFORM">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NEW JERSEY" target="NEW YORK">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="TRITON" target="BROOKLYN">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NAISMITH" target="NATIONAL BASKETBALL ASSOCIATION">
+      <data key="d0">8.0</data>
+    </edge>
+    <edge source="NAISMITH" target="NAISMITH MEMORIAL BASKETBALL HALL OF FAME">
+      <data key="d0">9.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="ATLANTA HAWKS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="BOSTON CELTICS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="CHARLOTTE BOBCATS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="CHICAGO BULLS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="CLEVELAND CAVALIERS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="DALLAS MAVERICKS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="DENVER NUGGETS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="DETROIT PISTONS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="GOLDEN STATE WARRIORS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="HOUSTON ROCKETS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="INDIANA PACERS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="LOS ANGELES CLIPPERS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="LOS ANGELES LAKERS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="MIAMI HEAT">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="MILWAUKEE BUCKS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="MINNESOTA TIMBERWOLVES">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="NEW JERSEY NETS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="NEW ORLEANS HORNETS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="NEW YORK KNICKS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="OKLAHOMA CITY THUNDER">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="ORLANDO MAGIC">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="PHILADELPHIA 76ERS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="PHOENIX SUNS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="PORTLAND TRAIL BLAZERS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="SACRAMENTO KINGS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="SAN ANTONIO SPURS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="UTAH JAZZ">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="WASHINGTON WIZARDS">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="NAISMITH MEMORIAL BASKETBALL HALL OF FAME">
+      <data key="d0">7.0</data>
+    </edge>
+    <edge source="NATIONAL BASKETBALL ASSOCIATION" target="INTERNET">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="OLYMPICS" target="GYMNASTICS">
+      <data key="d0">6.0</data>
+    </edge>
+    <edge source="OLYMPICS" target="BASEBALL">
+      <data key="d0">5.0</data>
+    </edge>
+    <edge source="OLYMPICS" target="TENNIS">
+      <data key="d0">6.0</data>
+    </edge>
+  </graph>
+</graphml>
