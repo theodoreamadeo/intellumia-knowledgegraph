@@ -311,6 +311,6 @@ For issues or questions:
 
 <div align="center">
 
-Made with love by [Theodor Amadeo](https://github.com/theodoreamadeo)
+Made with love by [Theodore Amadeo](https://github.com/theodoreamadeo)
 
 </div>
